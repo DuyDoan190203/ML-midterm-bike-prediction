@@ -98,7 +98,7 @@ Source: UCI Machine Learning Repository - Bike Sharing Dataset.
 
 ## How to Run the Code
 
-[![Watch the demo video](assets/ML-midterm_record.mp4)]
+[![Watch the demo video](assets/ML-midterm_record.mp4)] https://www.youtube.com/watch?v=i11PeMIT0E8
 1. Clone the repository.
 2. Install dependencies:
    pip install -r requirements.txt
